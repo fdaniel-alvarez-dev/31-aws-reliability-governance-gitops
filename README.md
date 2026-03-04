@@ -1,4 +1,4 @@
-# 31-metrosys-storage-devops-engineer
+# 31-data-governance-example
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
